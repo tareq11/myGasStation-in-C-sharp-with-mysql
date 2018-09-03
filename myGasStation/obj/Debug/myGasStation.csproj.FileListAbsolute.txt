@@ -1,0 +1,33 @@
+c:\users\loayn\documents\visual studio 2017\Projects\myGasStation\myGasStation\bin\Debug\myGasStation.exe.config
+c:\users\loayn\documents\visual studio 2017\Projects\myGasStation\myGasStation\bin\Debug\myGasStation.exe
+c:\users\loayn\documents\visual studio 2017\Projects\myGasStation\myGasStation\bin\Debug\myGasStation.pdb
+c:\users\loayn\documents\visual studio 2017\Projects\myGasStation\myGasStation\obj\Debug\myGasStation.csprojResolveAssemblyReference.cache
+c:\users\loayn\documents\visual studio 2017\Projects\myGasStation\myGasStation\obj\Debug\myGasStation.CustomerRegistration.resources
+c:\users\loayn\documents\visual studio 2017\Projects\myGasStation\myGasStation\obj\Debug\myGasStation.Properties.Resources.resources
+c:\users\loayn\documents\visual studio 2017\Projects\myGasStation\myGasStation\obj\Debug\myGasStation.csproj.GenerateResource.Cache
+c:\users\loayn\documents\visual studio 2017\Projects\myGasStation\myGasStation\obj\Debug\myGasStation.exe
+c:\users\loayn\documents\visual studio 2017\Projects\myGasStation\myGasStation\obj\Debug\myGasStation.pdb
+c:\users\loayn\documents\visual studio 2017\Projects\myGasStation\myGasStation\bin\Debug\myGasStation.mdf
+c:\users\loayn\documents\visual studio 2017\Projects\myGasStation\myGasStation\bin\Debug\myGasStation_log.ldf
+C:\Users\LoayN\Documents\Visual Studio 2017\Projects\myGasStation\myGasStation\obj\Debug\myGasStation.Form1.resources
+C:\Users\LoayN\Documents\Visual Studio 2017\Projects\myGasStation\myGasStation\obj\Debug\myGasStation.Card.resources
+C:\Users\LoayN\Documents\Visual Studio 2017\Projects\myGasStation\myGasStation\obj\Debug\myGasStation.FuelPump.resources
+C:\Users\LoayN\Documents\Visual Studio 2017\Projects\myGasStation\myGasStation\obj\Debug\myGasStation.CustomerIdentification.resources
+C:\Users\Tareq\Downloads\myGasStation\myGasStation\myGasStation\bin\Debug\myGasStation.exe.config
+C:\Users\Tareq\Downloads\myGasStation\myGasStation\myGasStation\obj\Debug\myGasStation.exe
+C:\Users\Tareq\Downloads\myGasStation\myGasStation\myGasStation\obj\Debug\myGasStation.pdb
+C:\Users\Tareq\Downloads\myGasStation\myGasStation\myGasStation\bin\Debug\myGasStation.mdf
+C:\Users\Tareq\Downloads\myGasStation\myGasStation\myGasStation\bin\Debug\myGasStation_log.ldf
+C:\Users\Tareq\Downloads\myGasStation\myGasStation\myGasStation\bin\Debug\myGasStation.exe
+C:\Users\Tareq\Downloads\myGasStation\myGasStation\myGasStation\bin\Debug\myGasStation.pdb
+C:\Users\Tareq\Downloads\myGasStation\myGasStation\myGasStation\obj\Debug\myGasStation.csprojResolveAssemblyReference.cache
+C:\Users\Tareq\Downloads\myGasStation\myGasStation\myGasStation\obj\Debug\myGasStation.Card.resources
+C:\Users\Tareq\Downloads\myGasStation\myGasStation\myGasStation\obj\Debug\myGasStation.CustomerIdentification.resources
+C:\Users\Tareq\Downloads\myGasStation\myGasStation\myGasStation\obj\Debug\myGasStation.CustomerRegistration.resources
+C:\Users\Tareq\Downloads\myGasStation\myGasStation\myGasStation\obj\Debug\myGasStation.FuelPump.resources
+C:\Users\Tareq\Downloads\myGasStation\myGasStation\myGasStation\obj\Debug\myGasStation.Properties.Resources.resources
+C:\Users\Tareq\Downloads\myGasStation\myGasStation\myGasStation\obj\Debug\myGasStation.csproj.GenerateResource.Cache
+C:\Users\Tareq\Downloads\myGasStation\myGasStation\myGasStation\obj\Debug\myGasStation.VIPCustomer.resources
+C:\Users\Tareq\Downloads\myGasStation\myGasStation\myGasStation\obj\Debug\myGasStation.Mainpage.resources
+C:\Users\Tareq\Downloads\myGasStation\myGasStation\myGasStation\obj\Debug\myGasStation.ReportDA.resources
+C:\Users\Tareq\Downloads\myGasStation\myGasStation\myGasStation\obj\Debug\myGasStation.PaymentApproving.resources
